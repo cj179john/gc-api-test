@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "content": "john jiang is looking for a job"
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "content": "john doe is an alien"
+    },
+    {
+      "id": 3,
+      "userId": 2,
+      "content": "Will smith is super start"
+    }
+  ]
+}

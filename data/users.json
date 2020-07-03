@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "john jiang"
+    },
+    {
+      "id": 2,
+      "name": "john doe"
+    },
+    {
+      "id": 3,
+      "name": "will smith"
+    }
+  ]
+}

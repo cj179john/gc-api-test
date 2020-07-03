@@ -1,0 +1,24 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "content": "john jiang is doing a test for it"
+    },
+    {
+      "id": 2,
+      "postId": 2,
+      "content": "This does not make sense"
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "content": "This is a good post"
+    },
+    {
+      "id": 4,
+      "postId": 3,
+      "content": "This is a a very fine post"
+    }
+  ]
+}
